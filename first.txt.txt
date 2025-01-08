@@ -1,2 +1,4 @@
 learning git
 change
+git add 
+git commit
