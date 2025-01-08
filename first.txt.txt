@@ -3,3 +3,4 @@ change
 git add 
 git commit
 remove
+git diff
